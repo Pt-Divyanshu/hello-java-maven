@@ -87,7 +87,8 @@ Click Build Now and check Console Output.
 
 The build was successful as shown in the console output screenshot:
 
-![Jenkins Build Success](./jenkins screenshot.png)
+<img width="1327" height="231" alt="jenkins screenshot" src="https://github.com/user-attachments/assets/00dcd326-99a0-400c-9842-c26b554f7d2f" />
+
 [INFO] BUILD SUCCESS
 Finished: SUCCESS
 ----
