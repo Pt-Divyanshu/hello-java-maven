@@ -63,7 +63,8 @@ public class HelloWorld {
     </build>
 
 </project>
------
+----
+
 ## Jenkins Setup
 
 Install Jenkins locally or via Docker:
